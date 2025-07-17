@@ -1,0 +1,20 @@
+miProyecto/
+├── src/
+│   ├── main/ # aqui se van a guardar todos los archivos .java
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── ejemplo/
+│   │   │           └── MiClase.java
+│   │   └── resources/ #configuraciones externas o recursos
+│   │       └── config.properties
+│   └── test/
+│       ├── java/
+│       │   └── com/
+│       │       └── ejemplo/
+│       │           └── MiClaseTest.java
+│       └── resources/
+│           └── test_data.txt
+├── target/ # donde se guardan los archivos .class que son los de compilacion
+│   └── ... (archivos compilados)
+├── pom.xml
+└── ... (otros archivos de proyecto)
