@@ -1,5 +1,5 @@
 
-package main.java.project.bases.clases;
+package main.java.com.project.bases.clases;
 
 public class Car {
 
